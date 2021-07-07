@@ -1,0 +1,9 @@
+flask
+flask-cors
+nltk
+numpy
+tensorflow
+wikipedia
+pytube
+youtube.py
+youtube-search-python
